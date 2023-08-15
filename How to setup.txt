@@ -1,0 +1,8 @@
+---Tutorial---
+1.Disable whole anti virus
+2.Active "Moon Setup.exe"
+3.Put your webhook on setup consolee
+4.Mark what you want recieve from grabbing in setup console
+5.Wait untill console will download whole grabber
+6.HAVE FUN :D
+
